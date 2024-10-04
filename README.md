@@ -1,2 +1,2 @@
-# Inyeccion de falla
+# Inyección de falla
 Bienvenidos al equipo de inyección de falla.
