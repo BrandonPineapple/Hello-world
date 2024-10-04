@@ -1,2 +1,2 @@
-# Hello-world
-Este repositorio es para practicar el flujo de GitHub
+# Inyección de falla
+Bienvenidos al equipo de inyección de falla.
